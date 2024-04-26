@@ -44,7 +44,7 @@ Find code examples for other programming languages [**here**](https://github.com
   "results": [
     {
       "content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss xmlns:media=\"http://search.yahoo.com/mrss/\" version=\"2.0\" ... </html>",
-      "created_at": "2023-12-18 11:34:34",
+    gh repo clone oxylabs/rss-feed-scraper mi  "created_at": "2023-12-18 11:34:34",
       "updated_at": "2023-12-18 11:34:36",
       "page": 1,
       "url": "https://news.yahoo.com/rss/politics",
